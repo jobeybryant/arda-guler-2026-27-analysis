@@ -1,0 +1,8 @@
+Match,Arda_Start,Brahim_Start,Group
+gw01_real_madrid_vs_real_sociedad,True,False,ARDA START
+gw02_espanyol_vs_real_madrid,True,False,ARDA START
+gw03_real_madrid_vs_malaga,False,True,BRAHIM START
+gw04_real_betis_vs_real_madrid,True,False,ARDA START
+gw05_real_madrid_vs_rayo_vallecano,False,False,NEITHER START
+gw06_elche_vs_real_madrid,True,False,ARDA START
+gw07_atletico_madrid_vs_real_madrid,True,False,ARDA START
